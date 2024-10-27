@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322398075142",
+    "project_id": "hospitallocatorapp-a654d",
+    "storage_bucket": "hospitallocatorapp-a654d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322398075142:android:ff70328dff681f81684687",
+        "android_client_info": {
+          "package_name": "com.gtisha.hospitallocaterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABAfE9N2hCSXAf_LIJ93KNU3XLL42qoL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
